@@ -21,7 +21,7 @@ https://feisty.fish/
 1. Clone the project
 
 ```
-git clone https://github.com/feisty-fish/nft-template-public
+git clone https://github.com/feisty-fish/nft-template-public.git
 ```
 
 2. Install dependencies
