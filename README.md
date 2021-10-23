@@ -21,13 +21,13 @@ https://feisty.fish/
 1. Clone the project
 
 ```
-git clone https://github.com/feisty-fish/nft-template
+git clone https://github.com/feisty-fish/nft-template-public
 ```
 
 2. Install dependencies
 
 ```
-cd nft-template
+cd nft-template-public
 npm install
 ```
 
